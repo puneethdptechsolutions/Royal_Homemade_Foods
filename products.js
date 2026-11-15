@@ -9,7 +9,7 @@ const productsData = [
     weight: "100g",
     tag: "VEG", // "VEG" or "NON-VEG"
     category: "Podi", // <--- Added category
-    image: "/photos/amla_idli_podi.png",
+    image: "photos/amla_idli_podi.png",
     usage: [
       "Always use a clean, dry spoon.",
       "Keep top layer submerged in oil.",
@@ -26,7 +26,7 @@ const productsData = [
     weight: "100g",
     tag: "VEG",
     category: "Podi",
-    image: "/photos/avarampoo_podi.png",
+    image: "photos/avarampoo_podi.png",
     usage: [
       "Avoid damp utensils to prevent moisture.",
       "Keep tightly closed in a cool, dark kitchen cabinet."
@@ -42,7 +42,7 @@ const productsData = [
     weight: "250g",
     tag: "VEG",
     category: "Podi",
-    image: "/photos/karuppu_kavuni_rice_health_mix.png",
+    image: "photos/karuppu_kavuni_rice_health_mix.png",
     usage: [
       "Keep refrigerated after opening for max freshness.",
       "Ensure zero water contact inside the jar."
