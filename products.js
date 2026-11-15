@@ -69,7 +69,7 @@ const productsData = [
 
 {
     id: 5,
-    name: "Mudakathan Podi.png ",
+    name: "Mudakathan Podi",
     tamilName: "இட்லி மிளகாய் பொடி",
     price: 150,
     weight: "200g",
