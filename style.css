@@ -964,3 +964,16 @@ html {
     max-width: 100% !important;
   }
 }
+
+@media (max-width: 650px) {
+  /* Hero Section Mobile Image Overrides */
+  .slide-1 {
+    background-image: url('photos/mobile1.png') !important;
+  }
+  .slide-2 {
+    background-image: url('photos/mobile2.png') !important;
+  }
+  .slide-3 {
+    background-image: url('photos/mobile3.png') !important;
+  }
+}
